@@ -31,7 +31,6 @@
                                                 <rect key="frame" x="97" y="61" width="196" height="128"/>
                                             </imageView>
                                         </subviews>
-                                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                         <constraints>
                                             <constraint firstItem="fob-ve-FIA" firstAttribute="centerX" secondItem="zB7-hQ-vsf" secondAttribute="centerX" id="BGr-6B-dFZ"/>
                                             <constraint firstItem="fob-ve-FIA" firstAttribute="centerY" secondItem="zB7-hQ-vsf" secondAttribute="centerY" id="Syi-ei-or2"/>
@@ -52,7 +51,6 @@
                                                 </subviews>
                                             </stackView>
                                         </subviews>
-                                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                         <constraints>
                                             <constraint firstItem="Vob-Zc-2qa" firstAttribute="centerY" secondItem="bit-tT-U1i" secondAttribute="centerY" id="6wS-CC-fce"/>
                                             <constraint firstItem="Vob-Zc-2qa" firstAttribute="centerX" secondItem="bit-tT-U1i" secondAttribute="centerX" id="fWl-bh-U1b"/>
@@ -73,7 +71,6 @@
                                                 </connections>
                                             </button>
                                         </subviews>
-                                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                         <constraints>
                                             <constraint firstItem="vxF-Nc-wzy" firstAttribute="centerX" secondItem="Zl8-eo-47g" secondAttribute="centerX" id="WhI-Gw-zaY"/>
                                             <constraint firstItem="vxF-Nc-wzy" firstAttribute="centerY" secondItem="Zl8-eo-47g" secondAttribute="centerY" id="w9F-Oj-SzK"/>
